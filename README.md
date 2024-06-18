@@ -1,2 +1,2 @@
 # JenkinsDemo
-This a sample testt file cretaed for Jenkins demo
+This a sample test file cretaed for Jenkins demo
